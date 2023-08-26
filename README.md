@@ -33,6 +33,8 @@ In this intriguing project, we delve into the realm of time series analysis to p
 
 2.  Model Evaluation
 
+3.  Model Hypertuning 
+
 ## Outcomes
 ## Limitations 
 ## Conclusion
