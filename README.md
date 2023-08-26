@@ -35,3 +35,15 @@ In this intriguing project, we delve into the realm of time series analysis to p
 
 ## Outcomes
 ## Limitations 
+## Conclusion
+## Authors
+| Name | GitHub link |
+| ---- | ---- |
+| Doe Edinam                   | https://github.com/doeabla         |
+| Kofi Asare Bamfo             | https://github.com/akbamfo         |
+| Enoch Taylor-Nketiah         | https://github.com/kojoboyoo       |
+
+
+| Project |	Name |	Published Article |	Deployed App |
+| ---- | -----| ----- | ---- |
+| LP3	| Regression_Analysis_SSP_LP3 |	[Time series LP3](https://www.linkedin.com/pulse/exploring-customer-churn-telecommunications-leveraging-doe) | [Power BI Deployment](https://app.powerbi.com/groups/me/reports/655df298-36e9-4537-953c-37e410844b55/ReportSection?experience=power-bi) |
